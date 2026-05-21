@@ -19,6 +19,13 @@ HashGuard is a web-based digital forensic system designed to verify the integrit
 
 ## 🛠 Technologies Used
 
+## 🚀 Installation
+
+Clone repository:
+
+```bash
+git clone https://github.com/DikaSetiawan45/hashguard-digital-forensics.git
+
 - Laravel 10
 - PHP 8
 - MySQL
